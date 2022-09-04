@@ -1,1 +1,1 @@
-The first project done in my LC
+Running the uname command
